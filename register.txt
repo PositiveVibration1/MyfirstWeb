@@ -1,0 +1,18 @@
+<html>
+<head><title>KarU IT Club Calender of events</title>
+<a href="index.html">Home</a>&nbsp&nbsp&nbsp&nbsp<a href="about.html">About us</a>&nbsp&nbsp&nbsp&nbsp<a href="constitution.html">constitution</a>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body >
+<div id="header"><h1>KARATINA UNIVERSITY IT CLUB</h1>
+</div>
+<body >
+<p>  
+The following are the events for the semester:
+</p>
+<p> <a href="cat2.docx">Download Club's Calender of event for  the semester</a>
+</p>
+<div id="footer"><h4><i>KarU IT Club  Copyright © Charvlie <a href="http://www.facebook.com/charlie.nj2">Facebook</a></i></h4>
+</body>
+</html>
+

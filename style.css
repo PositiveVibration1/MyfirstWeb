@@ -1,0 +1,39 @@
+	body{
+	    background-color:powderblue;
+		margin-left: 20%;
+		margin-right: 20%;
+		color:green;
+		border: 3px dotted green;
+		padding: 10px 10px 10px 10px;
+		font-family:sans-serif;
+	    }
+	p{
+	   color:black;
+	   font-family:sans-serif;
+	    }
+	#header {
+    background-color:purple;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+    #nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+    #section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+    #footer {
+    background-color:purple;
+    color:white;
+    text-align:left;
+    padding:5px;	 	 
+}
+
